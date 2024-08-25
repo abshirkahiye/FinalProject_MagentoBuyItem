@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-22T21:20:51 EDT" name="Default suite" finished-at="2024-08-22T21:21:40 EDT" duration-ms="48755">
+    <groups>
+    </groups>
+    <test started-at="2024-08-22T21:20:51 EDT" name="Default test" finished-at="2024-08-22T21:21:40 EDT" duration-ms="48755">
+      <class name="testRunner.BuyItemsTestNG">
+        <test-method is-config="true" signature="testPageSetup()[pri:0, instance:testRunner.BuyItemsTestNG@6fa51cd4]" started-at="2024-08-22T21:20:51 EDT" name="testPageSetup" finished-at="2024-08-22T21:21:00 EDT" duration-ms="9269" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPageSetup -->
+        <test-method signature="searchJacket()[pri:1, instance:testRunner.BuyItemsTestNG@6fa51cd4]" started-at="2024-08-22T21:21:00 EDT" name="searchJacket" finished-at="2024-08-22T21:21:02 EDT" duration-ms="2253" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchJacket -->
+        <test-method signature="chooseJacket()[pri:2, instance:testRunner.BuyItemsTestNG@6fa51cd4]" started-at="2024-08-22T21:21:02 EDT" name="chooseJacket" finished-at="2024-08-22T21:21:04 EDT" duration-ms="1403" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chooseJacket -->
+        <test-method signature="purchaseDetails()[pri:3, instance:testRunner.BuyItemsTestNG@6fa51cd4]" started-at="2024-08-22T21:21:04 EDT" name="purchaseDetails" finished-at="2024-08-22T21:21:12 EDT" duration-ms="8572" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- purchaseDetails -->
+        <test-method signature="completeOrder()[pri:4, instance:testRunner.BuyItemsTestNG@6fa51cd4]" started-at="2024-08-22T21:21:12 EDT" name="completeOrder" finished-at="2024-08-22T21:21:26 EDT" duration-ms="13974" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- completeOrder -->
+        <test-method signature="viewOrderHistory()[pri:5, instance:testRunner.BuyItemsTestNG@6fa51cd4]" started-at="2024-08-22T21:21:26 EDT" name="viewOrderHistory" finished-at="2024-08-22T21:21:39 EDT" duration-ms="12648" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- viewOrderHistory -->
+        <test-method is-config="true" signature="testTearDown()[pri:0, instance:testRunner.BuyItemsTestNG@6fa51cd4]" started-at="2024-08-22T21:21:39 EDT" name="testTearDown" finished-at="2024-08-22T21:21:40 EDT" duration-ms="519" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTearDown -->
+      </class> <!-- testRunner.BuyItemsTestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
